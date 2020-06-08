@@ -1,5 +1,9 @@
 ## Домашнее задание DNS
 
+```bash
+vagrant up
+```
+
 Насйтрока split-dns
 * стенд https://github.com/erlong15/vagrant-bind
 * добавить еще один сервер client2 в зоне dns.lab
